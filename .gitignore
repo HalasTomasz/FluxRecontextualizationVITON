@@ -160,3 +160,31 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+/zalando-hd-resized.zip
+/train
+/test
+
+dataset/train/agnostic-mask/
+dataset/train/cloth/
+dataset/train/gt_cloth_warped_mask/
+dataset/train/image-densepose/
+dataset/train/image-parse-v3/
+dataset/train/openpose_json/
+dataset/train/agnostic-v3.2/
+dataset/train/cloth-mask/
+dataset/train/image/
+dataset/train/image-parse-agnostic-v3.2/
+dataset/train/openpose_img/
+
+dataset/test/agnostic-mask/
+dataset/test/cloth/
+dataset/test/gt_cloth_warped_mask/
+dataset/test/image-densepose/
+dataset/test/image-parse-v3/
+dataset/test/openpose_json/
+dataset/test/agnostic-v3.2/
+dataset/test/cloth-mask/
+dataset/test/image/
+dataset/test/image-parse-agnostic-v3.2/
+dataset/test/openpose_img/
